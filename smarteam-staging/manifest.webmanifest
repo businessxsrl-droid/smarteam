@@ -1,0 +1,16 @@
+{
+  "name": "SmarTeam D'Elite",
+  "short_name": "SmarTeam",
+  "description": "Il cruscotto dei 18 visionari del Metodo 1∞! per Union Energia",
+  "lang": "it",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0e0f12",
+  "theme_color": "#0e0f12",
+  "icons": [
+    { "src": "./icona-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "./icona-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "./icona-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
