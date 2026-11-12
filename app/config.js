@@ -5,4 +5,5 @@ window.SMARTEAM_CONFIG = {
   url: 'https://akbseztexrtcckuawpnq.supabase.co',
   anonKey: 'sb_publishable_YkW8RqnRltld5FndDb7mAw_o1TpWVLk',
   boardEmail: 'luca.dalessandro@youexpo.com',
+  privacyUrl: './privacy.html',
 };
